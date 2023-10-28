@@ -8,6 +8,20 @@
 [![Twitter](https://img.shields.io/badge/Follow%20on%20Twitter-1da1f2)](https://twitter.com/ExistentialAI)
 [![Facebook](https://img.shields.io/badge/Like%20on%20Facebook-4267B2)](https://www.facebook.com/Existential-Audio-103423234434751)
 
+
+# This is a fork from [/ExistentialAudio/BlackHole](BlackHole) - mine just includes releases.
+
+[/ExistentialAudio/BlackHole/discussions/746#discussioncomment-7409321](Devin) - Devin is of the opinion it is okay for him to hide the releases behind a donate request wall and asking you for your information. I disagree so I created this fork.
+
+That being said, if you feel like you want to support his development, by all means, follow the links below to his site and donate there if you wish.
+
+I take no credit for this work otherwise, and I am simply making available the compiled release without you having to give away your personal information or hassle of clicking "I can't afford to donate".
+
+---
+
+
+
+
 BlackHole is a modern macOS virtual audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 
 ### [Download Installer](https://existential.audio/blackhole/?pk_campaign=github&pk_kwd=readme) 
